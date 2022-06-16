@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-16T07:38:09" hostname="LAPTOP-EL2M5IDU" time="0.024">
+  <properties/>
+  <testcase name="remainTest()" classname="ru.netology.service.CashbackHackServiceTest" time="0.024"/>
+  <system-out><![CDATA[Dlya polucheniya bonusa dokupitye na 100 rubley
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
